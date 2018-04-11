@@ -1,5 +1,5 @@
 <template>
-  <v-app>    
+  <v-app>
     <toolbar :login="login" :logout="logout" :profile="profile" :loggedIn="loggedIn" />
     <v-content>
       <v-container fluid>
